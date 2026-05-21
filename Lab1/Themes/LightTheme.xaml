@@ -1,12 +1,17 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
-    <!-- Светлая тема: основные цвета интерфейса -->
-    <SolidColorBrush x:Key="WindowBackground" Color="White"/>
-    <SolidColorBrush x:Key="PanelBackground"  Color="#F5F5F5"/>
-    <SolidColorBrush x:Key="TextPrimary"       Color="#212121"/>
-    <SolidColorBrush x:Key="TextSecondary"     Color="#757575"/>
-    <SolidColorBrush x:Key="Accent"            Color="#2196F3"/>
-    <SolidColorBrush x:Key="BorderBrush"       Color="#CCCCCC"/>
+    <SolidColorBrush x:Key="WindowBackground" Color="#FAF7F2"/>
+    <SolidColorBrush x:Key="SurfaceBackground" Color="#FFFFFE"/>
+    <SolidColorBrush x:Key="PanelBackground"   Color="#F1ECE2"/>
+    <SolidColorBrush x:Key="HeaderBackground"  Color="#2D3B2A"/>
+    <SolidColorBrush x:Key="HeaderForeground"  Color="#F1ECE2"/>
+    <SolidColorBrush x:Key="TextPrimary"       Color="#2D2A26"/>
+    <SolidColorBrush x:Key="TextSecondary"     Color="#7A6F60"/>
+    <SolidColorBrush x:Key="Accent"            Color="#5B7553"/>
+    <SolidColorBrush x:Key="AccentDark"        Color="#3F5239"/>
+    <SolidColorBrush x:Key="AccentLight"       Color="#D8E2D2"/>
+    <SolidColorBrush x:Key="Danger"            Color="#B86B6B"/>
+    <SolidColorBrush x:Key="BorderBrush"       Color="#D9D2C5"/>
 
 </ResourceDictionary>
