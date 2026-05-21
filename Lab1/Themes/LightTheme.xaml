@@ -4,8 +4,8 @@
     <SolidColorBrush x:Key="WindowBackground" Color="#FAF7F2"/>
     <SolidColorBrush x:Key="SurfaceBackground" Color="#FFFFFE"/>
     <SolidColorBrush x:Key="PanelBackground"   Color="#F1ECE2"/>
-    <SolidColorBrush x:Key="HeaderBackground"  Color="#2D3B2A"/>
-    <SolidColorBrush x:Key="HeaderForeground"  Color="#F1ECE2"/>
+    <SolidColorBrush x:Key="HeaderBackground"  Color="#EAE3D2"/>
+    <SolidColorBrush x:Key="HeaderForeground"  Color="#2D2A26"/>
     <SolidColorBrush x:Key="TextPrimary"       Color="#2D2A26"/>
     <SolidColorBrush x:Key="TextSecondary"     Color="#7A6F60"/>
     <SolidColorBrush x:Key="Accent"            Color="#5B7553"/>
